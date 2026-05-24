@@ -87,18 +87,16 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansipal6390&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mansipal6390&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansipal6390&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mansipal6390&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansipal6390&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=mansipal6390&theme=tokyonight" />
 </p>
-
----
 
 # 🏆 Achievements
 
